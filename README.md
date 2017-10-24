@@ -1,0 +1,2 @@
+# my
+cout<<""<<endl;
